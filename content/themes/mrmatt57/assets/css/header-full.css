@@ -1,0 +1,20 @@
+.site-head{
+    background-size:100%;
+    background-attachment: fixed;
+    height:400px;
+    position: relative;
+    display: table;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color:#999;
+    height:100%;
+    background-size: cover;
+    background-position:center center;
+}
+
+.site-head + header{
+    margin-top:-40px;
+    background-color:#fff;
+    position:relative;
+}
